@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crypto-coin-club/static/css/main.93273555.css",
+    "main.js": "/crypto-coin-club/static/js/main.77fc2e4d.js",
+    "index.html": "/crypto-coin-club/index.html",
+    "main.93273555.css.map": "/crypto-coin-club/static/css/main.93273555.css.map",
+    "main.77fc2e4d.js.map": "/crypto-coin-club/static/js/main.77fc2e4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93273555.css",
+    "static/js/main.77fc2e4d.js"
+  ]
+}
