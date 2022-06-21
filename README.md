@@ -4,6 +4,6 @@ react-app
 
 Visit:
 
-http://jebeCie.github.io/crypto-coin-club
+http://JanekZ95.github.io/crypto-coin-club
 
 Enjoy!
